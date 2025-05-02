@@ -17,9 +17,8 @@
 - Criando meu portfólio para oportunidades futuras
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(www.linkedin.com/in/luis-carvalho-8721022bb
+- [LinkedIn](www.linkedin.com/in/luis-carvalho-8721022bb)
 
-)*
 - Email: cluisfelipe063@gmail.com
 
 ---
