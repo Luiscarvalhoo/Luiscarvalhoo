@@ -1,7 +1,8 @@
 # Olá, eu sou o Luis Carvalho 👋
 
 🎓 Sou estudante de Ciência da Computação (1º semestre)  
-💻 Apaixonado por programação
+💻 Apaixonado por programação 
+
 📦 Participando de um bootcamp com o professor Marcelo Carboni Gomes  
 📍 Moro em Brasília  
 
