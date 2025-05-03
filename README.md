@@ -5,17 +5,6 @@
 📦 Participando de um bootcamp com o professor Marcelo Carboni Gomes  
 📍 Moro em Brasília  
 
-## 🚀 Tecnologias que estou estudando
-- Python
-- HTML e CSS
-- C
-- Git e GitHub
-
-## 📈 Atualmente
-- Desenvolvendo projetos no GitHub para praticar e mostrar meu progresso
-- Participando do bootcamp com integração ao GitHub e LinkedIn
-- Criando meu portfólio para oportunidades futuras
-
 ## 📫 Como me encontrar
 - Linkedin: [LinkedIn](www.linkedin.com/in/luis-carvalho-8721022bb)
 
