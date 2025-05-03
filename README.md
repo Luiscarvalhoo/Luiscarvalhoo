@@ -6,7 +6,7 @@
 📍 Moro em Brasília  
 
 ## 📫 Como me encontrar
-- Linkedin: [LinkedIn](www.linkedin.com/in/luis-carvalho-8721022bb)
+- Linkedin: [Linkedin](www.linkedin.com/in/luiscarvalhoo)
 
 - Email: cluisfelipe063@gmail.com
 
