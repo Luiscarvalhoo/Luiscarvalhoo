@@ -5,12 +5,11 @@
 📦 Participando de um bootcamp com o professor Marcelo Carboni Gomes  
 📍 Moro em Brasília  
 
-## 📫 Como me encontrar
-- Linkedin: [Linkedin](www.linkedin.com/in/luiscarvalhoo)
+<div> 
+  <a href="https://www.instagram.com/luiis_carvalhooo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "cluisfelipe063@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/luiscarvalhoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- Email: cluisfelipe063@gmail.com
-
----
 
 🧠 *"A jornada de mil milhas começa com um único passo." – Lao Tsé*
 
