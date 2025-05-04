@@ -2,7 +2,7 @@
 
 🎓 Sou estudante de Ciência da Computação (1º semestre)  
 💻 Apaixonado por tecnologia     
-📦 Interessado por Cibersegurança
+📦 Interessado por Cibersegurança   
 📍 Moro em Brasília     
 
 <div style="display: inline_block"><br>
