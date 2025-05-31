@@ -1,9 +1,9 @@
 # Olá, eu sou o Luis Carvalho 👋
 
-🎓 Sou estudante de Ciência da Computação (1º semestre)  
-💻 Apaixonado por tecnologia     
-📦 Interessado por Cibersegurança   
-📍 Moro em Brasília     
+🎓 I'm computer science student  
+💻 Passionate about tecnology
+📦 interested in data base
+📍 Live in Brasilia - Brazil   
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@
 ##
 
 
-🧠 *"A jornada de mil milhas começa com um único passo." – Lao Tsé*
+🧠 *"The journey of a thousand miles begins with a single step." – Lao Tsé*
 
 
 
