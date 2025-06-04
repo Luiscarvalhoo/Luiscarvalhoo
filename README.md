@@ -21,6 +21,9 @@
 
 ##
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+
+
 
 🧠 *"The journey of a thousand miles begins with a single step." – Lao Tsé*
 
